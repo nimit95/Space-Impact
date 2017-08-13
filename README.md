@@ -39,5 +39,14 @@ Header Files Used:
 9. math.h : used for using math function
 10. string.h : used for different operations on string
 
-[](https://github.com/nimit95/Space-Impact/blob/master/img/1.png)
-[](./img/2.png)
+![](./img/1.png)
+![](./img/2.png)
+![](./img/3.png)
+![](./img/4.png)
+![](./img/5.png)
+![](./img/6.png)
+![](./img/7.png)
+![](./img/8.png)
+![](./img/9.png)
+![](./img/10.png)
+![](./img/11.png)
