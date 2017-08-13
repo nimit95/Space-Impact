@@ -18,7 +18,7 @@ There are also five shooters from which you can choose of your choice . These sh
 There is an added feature of special power which activates itself in each level . User can use this special power if two or less asteroids are left in a level. This special power destroys all the left asteroids . But score of destroying those asteroids is not counted.
 
 For fun we have included a cheat in the game . This ceat can be activated while playing the game . This cheat will activate special power which can be used at any time of the game .
-Time challenge- Each level has its own level time . This level time increases with increase in levels. This time challenges creates an excitement for the user to use its reflexes as fast as it can to beat the time . 
+Time challenge- Each level has its own level time . This level time increases with increase in levels. This time challenges creates an excitement for the user to use its reflexes as fast as it can to beat the time .
 
 Score- We have adopted a very unique algorithm for our score . Score for destroying each asteroid is dependent on time on which it is destroyed and bullets left with user.
 
@@ -38,3 +38,6 @@ Header Files Used:
 8. fstream.h : for text file handling.
 9. math.h : used for using math function
 10. string.h : used for different operations on string
+
+[](img/1.png)
+[](img/2.png)
