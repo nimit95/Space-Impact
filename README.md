@@ -39,5 +39,5 @@ Header Files Used:
 9. math.h : used for using math function
 10. string.h : used for different operations on string
 
-[](img/1.png)
-[](img/2.png)
+[](./img/1.png)
+[](./img/2.png)
